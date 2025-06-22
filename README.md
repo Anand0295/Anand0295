@@ -6,13 +6,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anand0295&color=blue&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anand-ayyanar-483927308/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:anand295100@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=anand295100@gmail.com)
 
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **AI/ML Engineer** and **Data Scientist** with expertise in computer vision, natural language processing, and data engineering. Currently focused on developing innovative AI solutions for real-world challenges.
+I'm a passionate **AI/ML Engineer** and **Data Scientist** with expertise in computer vision, natural language processing, large language models (LLMs), and data engineering. Currently focused on developing innovative AI solutions for real-world challenges.
 
 ### 🏆 Achievement
 **🥇 FINALIST - Smart India Hackathon 2024**
@@ -116,17 +116,17 @@ I'm a passionate **AI/ML Engineer** and **Data Scientist** with expertise in com
 
 ## 🌟 What I'm Working On
 
-- 🔭 Currently working on **Computer Vision & NLP Projects**
+- 🔭 Currently working on **Computer Vision & LLM Projects**
 - 🌱 Learning **Kubernetes, Data Engineering & Advanced Deep Learning**
 - 👯 Looking to collaborate on **AI/ML, Data Science Projects**
-- 💬 Ask me about **Python, Data Science, AI/ML, Computer Vision, NLP, Data Engineering**
+- 💬 Ask me about **Python, LLMs, Data Science, AI/ML, Computer Vision, NLP, Data Engineering**
 
 ## 🤝 Let's Connect!
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-ayyanar-483927308/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anand295100@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=anand295100@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anand0295)
 
 </div>

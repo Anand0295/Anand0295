@@ -20,27 +20,36 @@ I'm a passionate **AI/ML Engineer** and **Full-Stack Developer** with expertise 
 
 ## 💻 Tech Stack
 
-### Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### AI/ML & Computer Vision
+### Data Science & Engineering
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+
+### AI/ML & Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 
-### Web Technologies
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+### Natural Language Processing
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=flat-square&logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-### Databases & Tools
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### Web & Backend
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+
+### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 🎯 Featured Projects
 
@@ -65,10 +74,10 @@ I'm a passionate **AI/ML Engineer** and **Full-Stack Developer** with expertise 
 
 ## 🌟 What I'm Working On
 
-- 🔭 Currently working on **Advanced Computer Vision Projects**
-- 🌱 Learning **Deep Learning Architectures**
-- 👯 Looking to collaborate on **AI/ML Projects**
-- 💬 Ask me about **Python, AI/ML, Web Development**
+- 🔭 Currently working on **Computer Vision & NLP Projects**
+- 🌱 Learning **Kubernetes, Data Engineering & Advanced Deep Learning**
+- 👯 Looking to collaborate on **AI/ML, Data Science Projects**
+- 💬 Ask me about **Python, Data Science, AI/ML, Computer Vision, NLP**
 
 ## 📈 Activity Graph
 
